@@ -9343,6 +9343,7 @@ https://www.guru99.com/sql.html <br>
 https://www.tutorialspoint.com/sql/index.htm<br>
 https://www.javatpoint.com/sql-tutorial <br>
 https://www.tutorialrepublic.com/sql-tutorial/ <br>
+https://www.h2kinfosys.com/courses/sql-online-training-course/ <br>
 <br>
 Dedicated Github page - <br>
 https://github.com/OpenTechSchool/sql-tutorial <br>
